@@ -41,7 +41,7 @@ The design is inspired by the iconic calculator app from the Apple iPhone interf
 
 🚀 Getting Started
 Clone the Repository
-git clone https://github.com/your-username/iphone-calculator-clone.git
+git clone https://github.com/QuantumCode001/iphone-calculator-clone.git
 Open the Project
 
 Simply open the index.html file in your browser.
